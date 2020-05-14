@@ -1,5 +1,5 @@
 # CONFUSION
-COURSERA : Front-End Web Development with React
+COURSERA : Front-End Web Development with React(The Hong Kong University of Science and Technology)
 
 Its a Single Page Web Application based on a Restraurant named CONFUSION. It uses all the basic concepts and libraries involved with REACT Js and Redux.
 - Be able to implement single page applications in React
